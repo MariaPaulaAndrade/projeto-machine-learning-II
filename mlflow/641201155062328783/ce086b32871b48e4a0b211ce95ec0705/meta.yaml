@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/641201155062328783/ce086b32871b48e4a0b211ce95ec0705/artifacts
+deleted_time: 1733092304704
+end_time: 1733090319132
+entry_point_name: ''
+experiment_id: '641201155062328783'
+lifecycle_stage: deleted
+run_id: ce086b32871b48e4a0b211ce95ec0705
+run_name: Supervised_GridSearchCVSVC
+run_uuid: ce086b32871b48e4a0b211ce95ec0705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733083028742
+status: 4
+tags: []
+user_id: marqsleal

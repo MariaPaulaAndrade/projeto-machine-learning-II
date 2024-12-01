@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/641201155062328783
+creation_time: 1733082560470
+experiment_id: '641201155062328783'
+last_update_time: 1733082560470
+lifecycle_stage: active
+name: Predição de Churn - modelagem supervisionada

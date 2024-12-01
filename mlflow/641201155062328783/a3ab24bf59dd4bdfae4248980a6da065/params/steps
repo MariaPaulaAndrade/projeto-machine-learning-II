@@ -1,0 +1,2 @@
+[('classifier', GradientBoostingClassifier(min_samples_leaf=4, min_samples_split=5,
+                           random_state=42, subsample=0.8))]

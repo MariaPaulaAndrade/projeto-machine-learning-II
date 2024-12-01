@@ -1,0 +1,1 @@
+AdaBoostClassifier(learning_rate=0.1, n_estimators=200, random_state=42)

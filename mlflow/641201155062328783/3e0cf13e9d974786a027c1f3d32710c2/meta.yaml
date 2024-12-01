@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/641201155062328783/3e0cf13e9d974786a027c1f3d32710c2/artifacts
+end_time: 1733093660147
+entry_point_name: ''
+experiment_id: '641201155062328783'
+lifecycle_stage: active
+run_id: 3e0cf13e9d974786a027c1f3d32710c2
+run_name: abundant-cub-122
+run_uuid: 3e0cf13e9d974786a027c1f3d32710c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733093615587
+status: 4
+tags: []
+user_id: marqsleal

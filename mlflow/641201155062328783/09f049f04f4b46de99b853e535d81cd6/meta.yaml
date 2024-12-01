@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/641201155062328783/09f049f04f4b46de99b853e535d81cd6/artifacts
+end_time: 1733090526334
+entry_point_name: ''
+experiment_id: '641201155062328783'
+lifecycle_stage: active
+run_id: 09f049f04f4b46de99b853e535d81cd6
+run_name: judicious-vole-984
+run_uuid: 09f049f04f4b46de99b853e535d81cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733090369690
+status: 3
+tags: []
+user_id: marqsleal

@@ -1,0 +1,27 @@
+digest: 078b6040
+name: dataset
+profile: '{"num_rows": 3447, "num_elements": 93069}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "gender", "required": true},
+  {"type": "long", "name": "age", "required": true}, {"type": "string", "name": "married",
+  "required": true}, {"type": "long", "name": "n_of_dependents", "required": true},
+  {"type": "double", "name": "n_of_referrals", "required": true}, {"type": "long",
+  "name": "tenure_in_months", "required": true}, {"type": "string", "name": "offer",
+  "required": true}, {"type": "string", "name": "phone_service", "required": true},
+  {"type": "string", "name": "multiple_lines", "required": true}, {"type": "string",
+  "name": "internet_service", "required": true}, {"type": "string", "name": "internet_type",
+  "required": true}, {"type": "double", "name": "avg_monthly_gb_download", "required":
+  true}, {"type": "string", "name": "online_security", "required": true}, {"type":
+  "string", "name": "online_backup", "required": true}, {"type": "string", "name":
+  "device_protection_plan", "required": true}, {"type": "string", "name": "premium_tech_support",
+  "required": true}, {"type": "string", "name": "streaming_tv", "required": true},
+  {"type": "string", "name": "streaming_movies", "required": true}, {"type": "string",
+  "name": "streaming_music", "required": true}, {"type": "string", "name": "unlimited_data",
+  "required": true}, {"type": "string", "name": "contract", "required": true}, {"type":
+  "string", "name": "paperless_billing", "required": true}, {"type": "string", "name":
+  "payment_method", "required": true}, {"type": "double", "name": "ttl_refunds", "required":
+  true}, {"type": "long", "name": "ttl_extra_data_chg", "required": true}, {"type":
+  "double", "name": "ttl_l_distance_chg", "required": true}, {"type": "double", "name":
+  "ttl_revenue", "required": true}]}'
+source: '{"tags": {"mlflow.user": "marqsleal", "mlflow.source.name": "/home/marqsleal/Dev/Python/ml2-projeto-final/venv/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/641201155062328783/c230508b9bcd4a7e95c9561bf5ebb9cc/artifacts
+end_time: 1733093520677
+entry_point_name: ''
+experiment_id: '641201155062328783'
+lifecycle_stage: active
+run_id: c230508b9bcd4a7e95c9561bf5ebb9cc
+run_name: victorious-pug-425
+run_uuid: c230508b9bcd4a7e95c9561bf5ebb9cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733093510422
+status: 3
+tags: []
+user_id: marqsleal
