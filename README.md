@@ -47,4 +47,3 @@ O modelo escolhido foi um GradientBoost, devido ao balanço entre o F1-score e R
 
 ![Curva de ROC](assets/training_roc_curve.png)
 
-## Abordagem Não Supervisionada
