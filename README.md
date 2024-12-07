@@ -23,12 +23,6 @@ Para instalar as dependências do projeto, execute:
 pip install -r requirements.txt
 ```
 
-## Estrutura do projeto 
-
-```bash
-
-```
-
 ## [Dataset publico predição de Churn por clientes de Telecom disponibilizado pela Maven Analytics](https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics)
 
 O dataset "Telecom Customer Churn" foi obtido do Kaggle e é disponibilizado pela Maven Analytics. Ele contém informações relacionadas ao comportamento de clientes de uma operadora de telecomunicações, com o objetivo de prever a taxa de churn (cancelamento de serviços). O objetivo principal deste dataset é analisar padrões de comportamento de clientes e desenvolver modelos de machine learning para prever quais clientes têm maior probabilidade de cancelar o serviço.
